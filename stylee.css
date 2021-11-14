@@ -1,0 +1,10 @@
+.bt{
+    text-align: right;
+    margin-left: 20px;
+}
+.minbt{
+    /* text-align: right;
+    margin-left: 740px;
+    margin-top:  0px; ; */
+    display: none;
+}
